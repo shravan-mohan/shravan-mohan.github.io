@@ -27,8 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m **Shravan** — a researcher and engineer who enjoys working on real-world machine learning problems. These days I mostly work on **LLM-based systems**, **time-series forecasting**, and large-scale experimentation pipelines using modern ML tools. I like practical problems where good modeling, careful thinking, and solid engineering come together to make something useful.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Alongside this industry work, I also enjoy more theoretical research. I’ve published on topics like **optimal signal design**, **system identification**, **controller design**, **event-triggered control**, **rank-constrained matrix equations**, **SVM dynamics**, **reducing computations in CNNs**, **split learning**, **load balancing in microgrids**, **power allocation**, **convexity**, **threshold optimization**, and mathematical ideas like the **Bures–Wasserstein metric** and the **Newman phase**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This website has more details on each of these if you’d like to explore them. Overall, I just enjoy learning, building things, and understanding why algorithms behave the way they do.
+
+Outside work, I love **cooking**, **long walks**, **listening to music** (especially modern songs with a classical touch), and spending time with **family and friends**.
+
