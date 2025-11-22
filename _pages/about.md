@@ -33,4 +33,3 @@ Alongside this industry work, I also enjoy more theoretical research. I’ve pub
 This website has more details on each of these if you’d like to explore them. Overall, I just enjoy learning, building things, and understanding why algorithms behave the way they do.
 
 Outside work, I love **cooking**, **long walks**, **listening to music** (especially modern songs with a classical touch), and spending time with **family and friends**.
-
