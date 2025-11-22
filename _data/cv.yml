@@ -2,96 +2,117 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Dr. Shravan Mohan
+    - name: Phone
+      value: +91 9840130326
+    - name: Email
+      value: shravan.rammohan@gmail.com
+    - name: Location
+      value: Bengaluru, India
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D - Electrical Engineering
+      institution: IIT Madras, Chennai
+      year: 2013 - 2019
+    - title: M.Tech - Electrical Engineering
+      institution: IIT Madras, Chennai
+      year: 2009 - 2010
+    - title: B.Tech - Electrical Engineering
+      institution: IIT Madras, Chennai
+      year: 2005 - 2009
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Applied Scientist II
+      institution: Amazon, Bangalore
+      year: 04/2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Lead researcher developing algorithms for large scale entity matching using fine-tuned LLMs
+        - Optimal ranking of entities on multiple criteria
+        - Binary time-series forecasting
+        - "Software tools: Python (PyTorch), SageMaker AI"
+    
+    - title: Associate Manager
+      institution: Accenture, Bangalore
+      year: 10/2020 - 04/2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed a large scale robotic warehouse simulator encompassing algorithms for multi-agent path finding, item storage configuration, task allocation, dynamic repositioning of pods and bot charging schemes
+        - Designed low-memory and low-power footprint deep learning based audio/image classification methods using quantization/pruning/architectural improvements
+        - Designed optimal peer-to-peer split learning topologies for training large deep neural networks
+        - Developed finetuning and efficient training methods for LLMs
+        - "Software tools: Python (CVXPY/Gurobi Solver, TensorFlow), ROS & Gazebo"
+    
+    - title: Senior Research Scientist
+      institution: Santa Fe Research, Chennai
+      year: 05/2012 - 09/2020
       description:
+        - Led all research efforts in the company
+        - Optimal signal design for inverter/rectifier switching
+        - Design of a nonlinear controller with actuation bounds for DC motors
+        - Optimal input design for system identification
+        - Optimal constellation design for reducing PAPR
+        - Determining rank-k solutions to linear matrix equations
+        - Design of optimal event-triggered controller for LTI systems
+        - Optimal cylinder packing
+        - Stable/sub-optimal AR parameter estimation
+        - Modeling/simulating clinical trials
+        - Modeling impact of ambient conditions on sports activity
+        - Reconciling hierarchical predictions
+        - "Software tools: Python (CVXPY/Gurobi Solver, TensorFlow, Scikit-Learn, NetworkX), MATLAB (Signal Processing Toolbox, Control Systems Toolbox), Discrete-event Simulators"
+    
+    - title: Project Associate
+      institution: IIT Madras, Chennai
+      year: 08/2011 - 04/2012
+      description:
+        - Part of a research group studying impact of delay on a chaotic non-linear circuit and analog PLLs using Lyapunov theory, bifurcation analysis, transient analysis and harmonic balance method
+        - Sufficient conditions for stability based on Linear Matrix Inequalities
+        - "Software tools: Python, CVXPY, MATLAB ODE Toolbox"
+    
+    - title: Engineer
+      institution: Qualcomm, Bangalore
+      year: 07/2010 - 03/2011
+      description:
+        - Part of the Physical Design team
+        - Conduct Design Rule Checks and Electrical Rule Checks for 100+ million gates VLSI chip designs using Magma-Calibre
+        - Coordinate with teams designing floor-plans, placement/routing and static timing closure to identify root causes for large scale violations
+        - "Software tools: C Programming, Python"
+    
+    - title: Intern
+      institution: Texas Instruments, Bangalore
+      year: 05/2008 - 07/2008
+      description:
+        - Conducted a comparative study of two different tools for IR drop analysis
+        - "Software tools: C Programming"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Selected Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - S. Mohan et.al. "An improved PWM for a dual two-level inverter fed open-end winding induction motor drive.", IEEE ICEM, Rome, 2010.
+    - S. Mohan et.al. "Some stability analysis of a non-linear time-delayed feedback circuit.", IEEE CCDC, Taiyuan, 2012.
+    - S. Mohan et.al. "D-optimal input design for identification of a continuous system using sum of squares polynomial.", IEEE ECC, Linz, 2015.
+    - S. Mohan et.al. "A linear programming approach for designing two-level switched waveforms for power inverters.", IEEE ICC, IIT Guwahati, 2017.
+    - S. Mohan et.al. "Optimal input design for system identification using spectral decomposition.", IJC, 2018.
+    - S. Mohan. "A note on rank constrained solutions to linear matrix equations.", arXiv preprint arXiv:1809.02491, 2018.
+    - S. Mohan et.al. "On the primal-dual dynamics of support vector machines.", IEEE MTNS, Hong Kong, 2018.
+    - S. Mohan et.al. "Optimal finite-dimensional spectral densities for the identification of continuous-time MIMO systems.", CTT, 2019.
+    - S. Mohan et.al. "Optimization of Relative and Absolute Thresholding Parameters in Event-triggered Control.", IEEE ECC, Naples, 2019.
+    - S. Mohan. "Control of Permanent Magnet Motors with Actuation Bounds using Convex Optimization.", arXiv preprint arXiv:1911.11353, 2019.
+    - S. Mohan et.al. "A linear programming approach for designing multilevel PWM waveforms.", IJC, 2020.
+    - S. Mohan et.al. "A note on load balancing in DC microgrids.", IEEE ICC, IIT Madras, 2022.
+    - S. Mohan. "A note on power allocation for optimal capacity.", arXiv preprint arXiv:2211.06827, 2022.
+    - S. Mohan. "A note on the Bures-Wasserstein metric.", arXiv preprint arXiv:2303.03883, 2023.
+    - S. Mohan et.al. "A note on reducing computations in CNNs", IEEE/ACM COMSNETS 2024.
+    - S. Mohan et.al. "Towards peer-to-peer split learning", IEEE/ACM COMSNETS 2024.
+    - S. Mohan. "On extending the class of convex functions.", arXiv preprint arXiv:2501.01854, 2025.
+    - S. Mohan. "A note on finding optimal cut-offs.", arXiv preprint arXiv:2509.11229, 2025.
+    - S. Mohan. "A conjecture related to the Newman phase.", arXiv preprint arXiv:2509.11278, 2025.
+
+- title: References
+  type: list
+  contents:
+    - Dr. Bharath Bhikkaji, IIT Madras, bharath@ee.iitm.ac.in
+    - Dr. R. Pasumarthy, IIT Madras, ramkrishna@ee.iitm.ac.in
+    - Dr. G. Ganesan, Santa Fe Partners, Girish.Ganesan@ieee.org
