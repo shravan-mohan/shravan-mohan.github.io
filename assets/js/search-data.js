@@ -432,6 +432,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-a-parallelizable-variant-of-hca",
+          title: 'A parallelizable variant of HCA',
+          description: "Research on parallelizable hierarchical clustering algorithms",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/paper_00_parallelizable_hca/";
             },},{id: "projects-a-conjecture-related-to-the-newman-phase",
           title: 'A conjecture related to the Newman phase',
           description: "Mathematical research on the Newman phase",
