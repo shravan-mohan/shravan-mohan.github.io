@@ -111,11 +111,11 @@
   ],
   "publications": [
     {
-      "name": "On extending the class of convex functions",
+      "name": "A conjecture related to the Newman phase",
       "publisher": "arXiv",
       "releaseDate": "2025-01-01",
-      "url": "https://arxiv.org/abs/2501.01854",
-      "summary": "Research on convexity and optimization theory."
+      "url": "https://arxiv.org/abs/2509.11278",
+      "summary": "Mathematical research on the Newman phase."
     },
     {
       "name": "A note on finding optimal cut-offs",
@@ -125,11 +125,11 @@
       "summary": "Threshold optimization research."
     },
     {
-      "name": "A conjecture related to the Newman phase",
+      "name": "On extending the class of convex functions",
       "publisher": "arXiv",
       "releaseDate": "2025-01-01",
-      "url": "https://arxiv.org/abs/2509.11278",
-      "summary": "Mathematical research on the Newman phase."
+      "url": "https://arxiv.org/abs/2501.01854",
+      "summary": "Research on convexity and optimization theory."
     },
     {
       "name": "Towards peer-to-peer split learning",
@@ -142,6 +142,94 @@
       "publisher": "IEEE/ACM COMSNETS",
       "releaseDate": "2024-01-01",
       "summary": "Efficient deep learning architectures."
+    },
+    {
+      "name": "A note on the Bures-Wasserstein metric",
+      "publisher": "arXiv",
+      "releaseDate": "2023-03-01",
+      "url": "https://arxiv.org/abs/2303.03883",
+      "summary": "Research on the Bures-Wasserstein metric."
+    },
+    {
+      "name": "A note on power allocation for optimal capacity",
+      "publisher": "arXiv",
+      "releaseDate": "2022-11-01",
+      "url": "https://arxiv.org/abs/2211.06827",
+      "summary": "Power allocation optimization research."
+    },
+    {
+      "name": "A note on load balancing in DC microgrids",
+      "publisher": "IEEE ICC, IIT Madras",
+      "releaseDate": "2022-01-01",
+      "summary": "Load balancing strategies for DC microgrids."
+    },
+    {
+      "name": "A linear programming approach for designing multilevel PWM waveforms",
+      "publisher": "IJC",
+      "releaseDate": "2020-01-01",
+      "summary": "PWM waveform design using linear programming."
+    },
+    {
+      "name": "Control of Permanent Magnet Motors with Actuation Bounds using Convex Optimization",
+      "publisher": "arXiv",
+      "releaseDate": "2019-11-01",
+      "url": "https://arxiv.org/abs/1911.11353",
+      "summary": "Motor control using convex optimization."
+    },
+    {
+      "name": "Optimization of Relative and Absolute Thresholding Parameters in Event-triggered Control",
+      "publisher": "IEEE ECC, Naples",
+      "releaseDate": "2019-06-01",
+      "summary": "Event-triggered control optimization."
+    },
+    {
+      "name": "Optimal finite-dimensional spectral densities for the identification of continuous-time MIMO systems",
+      "publisher": "CTT",
+      "releaseDate": "2019-01-01",
+      "summary": "System identification for MIMO systems."
+    },
+    {
+      "name": "On the primal-dual dynamics of support vector machines",
+      "publisher": "IEEE MTNS, Hong Kong",
+      "releaseDate": "2018-07-01",
+      "summary": "Analysis of SVM dynamics."
+    },
+    {
+      "name": "A note on rank constrained solutions to linear matrix equations",
+      "publisher": "arXiv",
+      "releaseDate": "2018-09-01",
+      "url": "https://arxiv.org/abs/1809.02491",
+      "summary": "Rank-constrained matrix equation solutions."
+    },
+    {
+      "name": "Optimal input design for system identification using spectral decomposition",
+      "publisher": "IJC",
+      "releaseDate": "2018-01-01",
+      "summary": "Input design for system identification."
+    },
+    {
+      "name": "A linear programming approach for designing two-level switched waveforms for power inverters",
+      "publisher": "IEEE ICC, IIT Guwahati",
+      "releaseDate": "2017-01-01",
+      "summary": "Power inverter waveform design."
+    },
+    {
+      "name": "D-optimal input design for identification of a continuous system using sum of squares polynomial",
+      "publisher": "IEEE ECC, Linz",
+      "releaseDate": "2015-01-01",
+      "summary": "D-optimal input design using sum of squares."
+    },
+    {
+      "name": "Some stability analysis of a non-linear time-delayed feedback circuit",
+      "publisher": "IEEE CCDC, Taiyuan",
+      "releaseDate": "2012-01-01",
+      "summary": "Stability analysis of non-linear circuits."
+    },
+    {
+      "name": "An improved PWM for a dual two-level inverter fed open-end winding induction motor drive",
+      "publisher": "IEEE ICEM, Rome",
+      "releaseDate": "2010-09-01",
+      "summary": "PWM improvements for induction motor drives."
     }
   ],
   "skills": [
