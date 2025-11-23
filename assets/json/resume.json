@@ -133,14 +133,16 @@
     },
     {
       "name": "Towards peer-to-peer split learning",
-      "publisher": "IEEE/ACM COMSNETS",
+      "publisher": "IEEE/ACM International Conference on COMmunication Systems & NETworkS (COMSNETS)",
       "releaseDate": "2024-01-01",
+      "url": "https://ieeexplore.ieee.org/document/10427274",
       "summary": "Research on distributed deep learning topologies."
     },
     {
       "name": "A note on reducing computations in CNNs",
-      "publisher": "IEEE/ACM COMSNETS",
+      "publisher": "IEEE/ACM International Conference on COMmunication Systems & NETworkS (COMSNETS)",
       "releaseDate": "2024-01-01",
+      "url": "https://ieeexplore.ieee.org/document/10427500",
       "summary": "Efficient deep learning architectures."
     },
     {
@@ -159,14 +161,16 @@
     },
     {
       "name": "A note on load balancing in DC microgrids",
-      "publisher": "IEEE ICC, IIT Madras",
+      "publisher": "IEEE Indian Control Conference (ICC)",
       "releaseDate": "2022-01-01",
+      "url": "https://ieeexplore.ieee.org/document/10093666",
       "summary": "Load balancing strategies for DC microgrids."
     },
     {
       "name": "A linear programming approach for designing multilevel PWM waveforms",
-      "publisher": "IJC",
+      "publisher": "International Journal of Control (Taylor & Francis)",
       "releaseDate": "2020-01-01",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00207179.2020.1725133",
       "summary": "PWM waveform design using linear programming."
     },
     {
@@ -178,20 +182,23 @@
     },
     {
       "name": "Optimization of Relative and Absolute Thresholding Parameters in Event-triggered Control",
-      "publisher": "IEEE ECC, Naples",
+      "publisher": "IEEE European Control Conference (ECC)",
       "releaseDate": "2019-06-01",
+      "url": "https://ieeexplore.ieee.org/document/8795707",
       "summary": "Event-triggered control optimization."
     },
     {
       "name": "Optimal finite-dimensional spectral densities for the identification of continuous-time MIMO systems",
-      "publisher": "CTT",
+      "publisher": "Control Theory and Technology (Springer)",
       "releaseDate": "2019-01-01",
+      "url": "https://link.springer.com/article/10.1007/s11768-019-8021-0",
       "summary": "System identification for MIMO systems."
     },
     {
       "name": "On the primal-dual dynamics of support vector machines",
-      "publisher": "IEEE MTNS, Hong Kong",
+      "publisher": "IEEE Mathematical Theory of Networks and Systems (MTNS)",
       "releaseDate": "2018-07-01",
+      "url": "https://mtns2018.hkust.edu.hk/media/files/0230.pdf",
       "summary": "Analysis of SVM dynamics."
     },
     {
@@ -203,32 +210,37 @@
     },
     {
       "name": "Optimal input design for system identification using spectral decomposition",
-      "publisher": "IJC",
+      "publisher": "International Journal of Control (Taylor & Francis)",
       "releaseDate": "2018-01-01",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/00207179.2018.1498597",
       "summary": "Input design for system identification."
     },
     {
       "name": "A linear programming approach for designing two-level switched waveforms for power inverters",
-      "publisher": "IEEE ICC, IIT Guwahati",
+      "publisher": "IEEE Indian Control Conference (ICC)",
       "releaseDate": "2017-01-01",
+      "url": "https://ieeexplore.ieee.org/document/7846465",
       "summary": "Power inverter waveform design."
     },
     {
       "name": "D-optimal input design for identification of a continuous system using sum of squares polynomial",
-      "publisher": "IEEE ECC, Linz",
+      "publisher": "IEEE European Control Conference (ECC)",
       "releaseDate": "2015-01-01",
+      "url": "https://ieeexplore.ieee.org/document/7330837",
       "summary": "D-optimal input design using sum of squares."
     },
     {
       "name": "Some stability analysis of a non-linear time-delayed feedback circuit",
-      "publisher": "IEEE CCDC, Taiyuan",
+      "publisher": "IEEE/IFAC Chinese Control and Decision Conference (CCDC)",
       "releaseDate": "2012-01-01",
+      "url": "https://ieeexplore.ieee.org/document/6243054",
       "summary": "Stability analysis of non-linear circuits."
     },
     {
       "name": "An improved PWM for a dual two-level inverter fed open-end winding induction motor drive",
-      "publisher": "IEEE ICEM, Rome",
+      "publisher": "IEEE International Conference on Electrical Machines (ICEM)",
       "releaseDate": "2010-09-01",
+      "url": "https://ieeexplore.ieee.org/document/5607866",
       "summary": "PWM improvements for induction motor drives."
     }
   ],
