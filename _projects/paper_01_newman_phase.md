@@ -2,7 +2,7 @@
 layout: page
 title: A conjecture related to the Newman phase
 description: Mathematical research on the Newman phase
-img: 
+img: assets/img/newman_phase.png
 importance: 1
 category: work
 related_publications: true

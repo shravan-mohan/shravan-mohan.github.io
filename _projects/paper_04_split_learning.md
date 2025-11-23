@@ -2,7 +2,7 @@
 layout: page
 title: Towards peer-to-peer split learning
 description: Research on distributed deep learning topologies
-img: 
+img: assets/img/split_learning.png
 importance: 4
 category: work
 related_publications: true

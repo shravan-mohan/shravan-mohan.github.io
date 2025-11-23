@@ -2,7 +2,7 @@
 layout: page
 title: A parallelizable variant of HCA
 description: Research on parallelizable hierarchical clustering algorithms
-img: 
+img: assets/img/hca_star.png
 importance: 1
 category: work
 related_publications: true
