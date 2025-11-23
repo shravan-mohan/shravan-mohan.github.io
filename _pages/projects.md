@@ -2,7 +2,7 @@
 layout: page
 title: publications/projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research publications and projects explained in a friendly, accessible way.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
