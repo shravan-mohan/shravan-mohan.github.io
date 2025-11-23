@@ -2,7 +2,7 @@
 layout: page
 title: Control of Permanent Magnet Motors with Actuation Bounds using Convex Optimization
 description: Motor control using convex optimization
-img: 
+img: assets/img/motor_control.png
 importance: 10
 category: work
 related_publications: true
