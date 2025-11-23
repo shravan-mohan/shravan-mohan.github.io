@@ -118,6 +118,13 @@
       "summary": "Mathematical research on the Newman phase."
     },
     {
+      "name": "A parallelizable variant of HCA",
+      "publisher": "arXiv",
+      "releaseDate": "2025-01-31",
+      "url": "https://arxiv.org/abs/2501.19218",
+      "summary": "Research on parallelizable hierarchical clustering algorithms."
+    },
+    {
       "name": "A note on finding optimal cut-offs",
       "publisher": "arXiv",
       "releaseDate": "2025-01-01",
