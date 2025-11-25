@@ -2,7 +2,7 @@
 layout: page
 title: D-optimal input design for identification of a continuous system using sum of squares polynomial
 description: D-optimal input design using sum of squares
-img: 
+img: assets/img/d_optimal.png
 importance: 17
 category: work
 related_publications: true

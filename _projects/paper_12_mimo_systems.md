@@ -2,7 +2,7 @@
 layout: page
 title: Optimal finite-dimensional spectral densities for the identification of continuous-time MIMO systems
 description: System identification for MIMO systems
-img: 
+img: assets/img/ctt_paper.png
 importance: 12
 category: work
 related_publications: true

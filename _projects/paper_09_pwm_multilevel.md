@@ -2,7 +2,7 @@
 layout: page
 title: A linear programming approach for designing multilevel PWM waveforms
 description: PWM waveform design using linear programming
-img: 
+img: assets/img/multilevel_pwm.png
 importance: 9
 category: work
 related_publications: true

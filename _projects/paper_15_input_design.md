@@ -2,7 +2,7 @@
 layout: page
 title: Optimal input design for system identification using spectral decomposition
 description: Input design for system identification
-img: 
+img: assets/img/sys_identification.png
 importance: 15
 category: work
 related_publications: true

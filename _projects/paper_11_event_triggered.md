@@ -2,7 +2,7 @@
 layout: page
 title: Optimization of Relative and Absolute Thresholding Parameters in Event-triggered Control
 description: Event-triggered control optimization
-img: 
+img: assets/img/event_triggered.png
 importance: 11
 category: work
 related_publications: true

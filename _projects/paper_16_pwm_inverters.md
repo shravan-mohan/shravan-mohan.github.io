@@ -2,7 +2,7 @@
 layout: page
 title: A linear programming approach for designing two-level switched waveforms for power inverters
 description: Power inverter waveform design
-img: 
+img: assets/img/two_level.png
 importance: 16
 category: work
 related_publications: true
