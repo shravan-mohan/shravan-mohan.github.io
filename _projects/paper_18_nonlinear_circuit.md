@@ -2,7 +2,7 @@
 layout: page
 title: Some stability analysis of a non-linear time-delayed feedback circuit
 description: Stability analysis of non-linear circuits
-img: 
+img: assets/img/circuit_nonlinear_stability_analysis.png
 importance: 18
 category: work
 related_publications: true

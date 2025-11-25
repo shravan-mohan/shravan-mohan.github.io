@@ -2,7 +2,7 @@
 layout: page
 title: On extending the class of convex functions
 description: Research on convexity and optimization theory
-img: 
+img: assets/img/convex.png
 importance: 3
 category: work
 related_publications: true
