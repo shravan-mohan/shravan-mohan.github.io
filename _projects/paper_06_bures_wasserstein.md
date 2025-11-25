@@ -2,7 +2,7 @@
 layout: page
 title: A note on the Bures-Wasserstein metric
 description: Research on the Bures-Wasserstein metric
-img: 
+img: assets/img/bw_metric.png
 importance: 6
 category: work
 related_publications: true
