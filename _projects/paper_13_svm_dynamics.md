@@ -2,7 +2,7 @@
 layout: page
 title: On the primal-dual dynamics of support vector machines
 description: Analysis of SVM dynamics
-img: 
+img: assets/img/mtns_paper.png
 importance: 13
 category: work
 related_publications: true
