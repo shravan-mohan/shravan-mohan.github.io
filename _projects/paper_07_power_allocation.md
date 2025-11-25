@@ -2,7 +2,7 @@
 layout: page
 title: A note on power allocation for optimal capacity
 description: Power allocation optimization research
-img: 
+img: assets/img/power_allocation.png
 importance: 7
 category: work
 related_publications: true

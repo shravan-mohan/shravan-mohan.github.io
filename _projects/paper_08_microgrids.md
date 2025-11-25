@@ -2,7 +2,7 @@
 layout: page
 title: A note on load balancing in DC microgrids
 description: Load balancing strategies for DC microgrids
-img: 
+img: assets/img/dc_microgrid.png
 importance: 8
 category: work
 related_publications: true
