@@ -5,6 +5,7 @@ date: 2024-11-25 10:00:00-0000
 description: Understanding Ramanujan's elegant approach to solving systems of equations using generating functions
 tags: mathematics ramanujan
 categories: research-notes
+thumbnail: assets/img/ramanujan_sim_eqns.png
 related_posts: false
 ---
 
