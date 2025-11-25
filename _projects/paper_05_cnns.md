@@ -2,7 +2,7 @@
 layout: page
 title: A note on reducing computations in CNNs
 description: Efficient deep learning architectures
-img: 
+img: assets/img/cnn_comp_reduction.png
 importance: 5
 category: work
 related_publications: true
