@@ -52,6 +52,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
+      },{id: "post-a-pedagogical-walkthrough-of-ramanujan-39-s-1912-note-on-a-set-of-simultaneous-equations",
+        
+          title: "A Pedagogical Walkthrough of Ramanujan&#39;s 1912 Note on a Set of Simultaneous Equations...",
+        
+        description: "Understanding Ramanujan&#39;s elegant approach to solving systems of equations using generating functions",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/ramanujan-simultaneous-equations/";
+          
+        },
       },{id: "post-a-post-with-tabs",
         
           title: "a post with tabs",
