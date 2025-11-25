@@ -25,7 +25,7 @@ $$
 and continues until
 
 $$
-x_1 y_1^{2n-1} + x_2 y_2^{2n-1} + \cdots + x_n y_n^{2n-1} = a_{2n}
+\centering x_1 y_1^{2n-1} + x_2 y_2^{2n-1} + \cdots + x_n y_n^{2n-1} = a_{2n}
 $$.
 
 Here the numbers $$a_1, a_2, \dots, a_{2n}$$ are known, and the unknowns are $$x_1,\dots,x_n$$ and $$y_1,\dots,y_n$$. Ramanujan does not attempt to solve these equations directly. Instead, he rewrites the entire system using a single generating function.
