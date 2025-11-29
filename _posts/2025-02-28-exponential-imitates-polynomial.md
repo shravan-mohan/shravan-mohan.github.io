@@ -19,8 +19,7 @@ A very elegant question appeared recently on **MathOverflow**:
 
 At first sight, this feels impossible. The function $$3^k$$ grows exponentially, while a polynomial grows much more slowly. How could a polynomial possibly replicate the values of an exponential function for every integer $$k$$, even after reducing modulo $$2^n$$?
 
-The surprising answer is that it **can**—and the construction is explicit and beautiful.  
-The exposition below follows the elegant solution given by a contributor on MathOverflow, whose argument builds the required polynomial directly from the binomial expansion of $$3^x$$.
+The surprising answer is that it **can**—and the construction is explicit and beautiful. The exposition below follows the elegant solution given by a contributor on MathOverflow, whose argument builds the required polynomial directly from the binomial expansion of $$3^x$$.
 
 ---
 
@@ -63,9 +62,7 @@ $$
 j! = 2^{\nu_j} \, q_j,
 $$
 
-where $$q_j$$ is **odd** and $$\nu_j$$ is the exponent of $$2$$ dividing $$j!$$.
-
-Then
+where $$q_j$$ is **odd** and $$\nu_j$$ is the exponent of $$2$$ dividing $$j!$$. Then
 
 $$
 2^j \binom{x}{j}
@@ -79,15 +76,13 @@ $$
 j \ge \nu_j \quad \text{for all } j,
 $$
 
-so $$2^{\,j-\nu_j}$$ is an integer.  
-Thus the only remaining denominators come from the **odd** numbers $$q_j$$.
+so $$2^{\,j-\nu_j}$$ is an integer. Thus the only remaining denominators come from the **odd** numbers $$q_j$$.
 
 ---
 
 ## 3. Clearing the odd denominators modulo $$2^n$$
 
-Since each $$q_j$$ is odd, it is invertible modulo $$2^n$$.  
-(Recall that modulo $$2^n$$, **every odd number has a modular inverse**.)
+Since each $$q_j$$ is odd, it is invertible modulo $$2^n$$ (recall that modulo $$2^n$$, **every odd number has a modular inverse**.)
 
 Let $$p_j$$ be the modular inverse of $$q_j$$:
 
@@ -123,8 +118,7 @@ $$
 
 ## 4. Extending the equality to all natural numbers
 
-The sequence $$3^k \bmod 2^n$$ is periodic, with period dividing $$2^n$$.  
-Therefore, if two sequences agree for $$k = 0,\dots,2^n$$, they agree for **all** $$k$$.
+The sequence $$3^k \bmod 2^n$$ is periodic, with period dividing $$2^n$$.  Therefore, if two sequences agree for $$k = 0,\dots,2^n$$, they agree for **all** $$k$$.
 
 Thus, for every integer $$k \ge 0$$:
 
@@ -134,7 +128,4 @@ $$
 
 This completes the construction.
 
----
 
-In summary, a thoughtful observation on MathOverflow shows that for every $$n$$, the exponential sequence $$3^k$$ admits a perfect polynomial representation modulo $$2^n$$.  
-The argument is an elegant interplay between the binomial theorem, the structure of factorials, and the fact that all odd numbers are invertible modulo powers of two.
