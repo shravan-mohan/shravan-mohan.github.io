@@ -1,8 +1,8 @@
 ---
 layout: post
-title: When an Exponential Imitates a Polynomial (mod \(2^n\))
+title: When an Exponential Imitates a Polynomial (mod $$2^n$$)
 date: 2025-02-28 10:00:00-0000
-description: How a MathOverflow answer shows that \(3^k\) can be represented by an integer polynomial modulo \(2^n\)
+description: How a MathOverflow answer shows that $$3^k$$ can be represented by an integer polynomial modulo $$2^n$$
 tags: mathematics number-theory modular-arithmetic
 categories: research-notes
 thumbnail: assets/img/power_polynomial.png
@@ -11,7 +11,7 @@ related_posts: false
 
 A very elegant question appeared recently on **MathOverflow**:
 
-> **Given a fixed integer \(n\), does there exist a polynomial \(P(x) \in \mathbb{Z}[x]\) such that**
+> **Given a fixed integer $$n$$, does there exist a polynomial $$P(x) \in \mathbb{Z}[x]$$ such that**
 >
 > $$
 > P(k) \equiv 3^k \pmod{2^n}
