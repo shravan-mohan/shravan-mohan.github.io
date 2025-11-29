@@ -5,6 +5,7 @@ date: 2025-02-28 10:00:00-0000
 description: How a MathOverflow answer shows that \(3^k\) can be represented by an integer polynomial modulo \(2^n\)
 tags: mathematics number-theory modular-arithmetic
 categories: research-notes
+thumbnail: assets/img/power_polynomial.png
 related_posts: false
 ---
 
