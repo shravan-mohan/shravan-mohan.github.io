@@ -32,9 +32,9 @@ ninja.data = [{
           },
         },{id: "post-when-an-exponential-imitates-a-polynomial-mod-2-n",
         
-          title: "When an Exponential Imitates a Polynomial (mod \(2^n\))",
+          title: "When an Exponential Imitates a Polynomial (mod $$2^n$$)",
         
-        description: "How a MathOverflow answer shows that \(3^k\) can be represented by an integer polynomial modulo \(2^n\)",
+        description: "How a MathOverflow answer shows that $$3^k$$ can be represented by an integer polynomial modulo $$2^n$$",
         section: "Posts",
         handler: () => {
           
