@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-pedagogical-walkthrough-of-ramanujan-39-s-1912-note-on-a-set-of-simultaneous-equations",
+        },{id: "post-when-an-exponential-imitates-a-polynomial-mod-2-n",
+        
+          title: "When an Exponential Imitates a Polynomial (mod \(2^n\))",
+        
+        description: "How a MathOverflow answer shows that \(3^k\) can be represented by an integer polynomial modulo \(2^n\)",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/exponential-imitates-polynomial/";
+          
+        },
+      },{id: "post-a-pedagogical-walkthrough-of-ramanujan-39-s-1912-note-on-a-set-of-simultaneous-equations",
         
           title: "A Pedagogical Walkthrough of Ramanujan&#39;s 1912 Note on a Set of Simultaneous Equations...",
         
